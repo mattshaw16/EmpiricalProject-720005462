@@ -15,3 +15,7 @@ The notebooks LeagueTableAnalysis and PlayerDataAnalysis run code to process, an
 There were some missing rows of data which were due to a lack of information on the Premier League website. I removed rows which were missing key data such as nationality and club but kept rows which were only missing height.
 
 The folders Graphs, LeagueData and PlayerData have been included for clear directory structure but are not necessary.
+
+blog.txt contains a link to the blog output which I have created.
+
+I hope you find my project interesting!
